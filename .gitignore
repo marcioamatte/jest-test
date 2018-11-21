@@ -1,0 +1,9 @@
+# Modules
+node_modules
+
+# Directories
+coverage
+
+# Config files
+yarn.lock
+package-lock.json
